@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+server.log
+backend.log
+
+# Test reports
+test_report.json
+
+# Environment
+.env
+
+# Database
+instance/*.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
